@@ -1,0 +1,37 @@
+.book-info {
+	font-size: 12px;
+	font-family: Verdana;
+	overflow: hidden;
+}
+
+.book-info h3 {
+	margin-top: 5px;
+	margin-bottom: 15px;
+}
+
+.book-info h3 a {
+	color: #249FA3;
+}
+
+.book-info div.authors {
+	font-size: 11px;
+	color: #CCC;
+}
+
+.book-info img.book-cover {
+	float: left;
+	margin-right: 15px;
+}
+
+.book-info p.description {
+	margin: 0;
+	text-align: justify;
+}
+
+div.book-separator {
+	width: 100px;
+	height : 2px;
+	background-color: #999;
+	margin: 10px auto;
+}
+
